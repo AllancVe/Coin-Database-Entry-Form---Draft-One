@@ -1,0 +1,19 @@
+1. Start application
+2. Click 'Home' Tab on bottom left
+3. Click 'Launch Form'
+4. This should launch the form? 
+
+Errors:
+
+When on Step 3. Microsoft Visual Basic will display the following error:
+Run-time error'13':
+Type mismatch
+
+
+Trouble Shooting:
+
+For some reason unbenonst to me, the Step 3 error keeps occuring.
+I have tried several fixed, yet I cannot seem to find one.
+
+I have a feeling I clearly mislabeled something in the code, so I will one day come back to this when I have more experience.
+That or someone else shows me where I am going wrong?
